@@ -21,6 +21,9 @@
 </p>
 
 ## Quick Start
+- Create env
+- .venv\Scripts\activate
+- promptfoo init
 
 ```sh
 # Install and initialize project
